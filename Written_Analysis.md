@@ -1,8 +1,8 @@
-# Kickstarting with Excel
+# **Kickstarting with Excel**
 
-## Overview of Project
+## **Overview of Project**
 
-### Purpose
+### This project is meant to perform analysis on kickstarter data to uncover trends
 
 ## Analysis and Challenges
 
