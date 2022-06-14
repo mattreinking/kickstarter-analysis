@@ -41,4 +41,7 @@ The greatest challenge in this project one could encounter is separating the cat
   - The goal amounts charted were too broad leaving the data to be skewed. 
 
 - What are some other possible tables and/or graphs that we could create?
-  - 
+  - Relation of goal amount and pledged amount based on country
+  - Bar chart of pledged amounts based on country and the year
+  - A pie chart comparing the percentage of subcategories in each parent category
+  - The years of the launch dates in relation their deadlines and how it impacted the pledged amount
