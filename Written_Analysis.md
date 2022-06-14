@@ -8,9 +8,11 @@ This project is meant to
 
 ### Analysis of Outcomes Based on Launch Date
 
-![This is an image](C:\Users\mattr\Documents\Davis Boot Camp\Data Projects\Kickstarter_Analysis_Project\resources)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/86776606/173473088-0946be27-74dd-4dc6-b64a-ee3fe0f029d6.png)
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/86776606/173473130-72dd918c-63bf-47ca-9ce8-60fb87bcf800.png)
 
 ### Challenges and Difficulties Encountered
 
