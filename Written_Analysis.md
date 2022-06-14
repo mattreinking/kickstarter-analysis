@@ -1,12 +1,14 @@
 # **Kickstarting with Excel**
 
 ## **Overview of Project**
-This project is meant to perform analysis on kickstarter data to uncover trends
+Perform analysis on Kickstarter data to uncover trends
 ### **Purpose**
-
+This project is meant to 
 ## **Analysis and Challenges**
 
 ### Analysis of Outcomes Based on Launch Date
+
+![This is an image](C:\Users\mattr\Documents\Davis Boot Camp\Data Projects\Kickstarter_Analysis_Project\resources)
 
 ### Analysis of Outcomes Based on Goals
 
