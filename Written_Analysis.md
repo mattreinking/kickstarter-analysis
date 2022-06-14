@@ -1,10 +1,10 @@
 # **Kickstarting with Excel**
 
 ## **Overview of Project**
+This project is meant to perform analysis on kickstarter data to uncover trends
+### **Purpose**
 
-### This project is meant to perform analysis on kickstarter data to uncover trends
-
-## Analysis and Challenges
+## **Analysis and Challenges**
 
 ### Analysis of Outcomes Based on Launch Date
 
